@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Vlad
 
-<!--
-**vladdonciu/vladdonciu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student passionate about learning and building while I grow  
+🎮 Focused on Game Development  
+🧠 Learning by doing — projects, experiments, and prototypes  
+💻 Working with C#, Unity, and interactive systems  
+🚀 Always improving my skills step by step
 
-Here are some ideas to get you started:
+## 🔧 What I’m Doing
+- Building small and mid-size game projects  
+- Exploring gameplay systems and mechanics  
+- Practicing clean code and optimization  
+- Experimenting with tools and workflows in game dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  > *Learning never stops — every project is a new level.*
