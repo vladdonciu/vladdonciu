@@ -2,7 +2,7 @@
 
 🎓 Student passionate about learning and building while I grow  
 🎮 Focused on Game Development  
-🧠 Learning by doing — projects, experiments, and prototypes  
+🧠 Learning by doing - projects, experiments, and prototypes  
 💻 Working with C#, Unity, and interactive systems  
 🚀 Always improving my skills step by step
 
