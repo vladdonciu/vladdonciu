@@ -1,60 +1,86 @@
 <div align="center">
 
-# 👋 Hi, I'm Vlad
+# 👋 Hi, I'm Vladimiro
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1200&color=6A7B8C&center=true&vCenter=true&width=700&lines=Game+Developer;Building+interactive+experiences+with+C%23+and+Unity;Focused+on+gameplay+systems%2C+clean+code%2C+and+growth" alt="Typing SVG" />
-
-<br>
-
-### Game Developer building interactive experiences with C# and Unity
-
-I focus on gameplay systems, clean implementation, and steady improvement through real projects, experiments, and prototypes.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=6A7B8C&center=true&vCenter=true&width=800&lines=Game+Developer+%26+Digital+Designer;Building+Indie+Games+with+Unity+%26+C%23;AI-Powered+Development+Workflows;Adobe+Creative+Cloud+%7C+Visual+Identity+%26+Branding;Turning+Creative+Ideas+into+Playable+Experiences" alt="Typing SVG" />
 
 <br>
 
-## About Me
+---
 
-🎮 Focused on game development and interactive systems  
-💻 Working mainly with C# and Unity  
-🧠 Learning through hands-on building and iteration  
-⚙️ Improving code quality, optimization, and workflow  
-🚀 Turning ideas into playable experiences step by step  
+### 🎮 Game Developer & Digital Designer
 
-<br>
+I'm passionate about making indie games that reflect my creativity — designing and developing them from concept to playable experience.
+I work at the intersection of Unity development, visual design, and AI-assisted workflows,
+using tools like **Claude, GitHub Copilot, and Perplexity** to write cleaner, more optimized code without losing control over logic and architecture.
 
-## What I'm Doing
+---
 
-Building small and mid-size game projects  
-Exploring gameplay systems and mechanics  
-Practicing clean, maintainable, and efficient code  
-Experimenting with tools and workflows in game development  
+## 🧠 About Me
 
-<br>
+🎮 Indie Game Developer — Unity 2D/3D, gameplay systems, UI/UX & level design  
+🤖 Passionate about using AI tools to implement clean, optimized and efficient code  
+🎨 Digital Designer — Visual identities, branding, Adobe Creative Cloud & Figma  
+💻 Working with **C#**, **Unity**, **GML**, **Blender**, and **Inky**  
+🧩 Game Jammer — Global Game Jam 2024 participant, Ludum Dare 54 top 30%  
+🚀 Always improving — building, iterating, and shipping real projects  
 
-## Tech Stack
+---
 
+## 🔧 What I'm Working On
+
+🕹️ **TIKO** — 2.5D narrative Unity game focused on emotion-driven mechanics & storytelling *(In Development)*  
+🏃 **Eternal Mirage** — 3D endless runner with shop, skins & progression systems *(Playable Demo)*  
+🏰 **Gloomy Hood: Tower Defence** — 2D top-down tower defence game in Unity *(Playable Demo)*  
+🤿 **Aqua Nautics** — Mobile & browser game built in 48h at Global Game Jam 2024  
+
+---
+
+## 🛠️ Tech & Tools
+
+**Game Development**  
 <p>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# badge" />
-  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity badge" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git badge" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" />
+  <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<br>
+**Design & Branding**  
+<p>
+  <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20InDesign-EE3D8F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+</p>
 
-## Connect
+**AI & Workflow**  
+<p>
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+</p>
+
+---
+
+## 🌐 Connect
 
 <p>
   <a href="https://www.linkedin.com/in/vladimiro-donciu" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://samsara-lab.itch.io" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io" />
   </a>
   <a href="https://www.instagram.com/vlad_dn66/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 <br>
 
-> *Building games, refining systems, and improving with every project.*
+> *"Every project is a canvas — I build games to express, design to communicate, and code to create."*
 
 </div>
