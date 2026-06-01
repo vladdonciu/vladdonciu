@@ -15,11 +15,15 @@ I'm a **Game Developer** and **Digital Designer** passionate about crafting indi
 
 I work at the intersection of **Unity development**, **visual branding**, and **AI-assisted workflows**, using Claude, GitHub Copilot and Perplexity to write cleaner, more optimized code.
 
-- 🎮 Indie Game Developer — Unity 2D/3D, gameplay systems, UI/UX
-- 🤖 AI-powered development — clean, optimized, architecture-aware code
-- 🎨 Digital Designer — Visual identities, brand systems, Adobe CC
-- 🏆 Game Jammer — Global Game Jam 2024 · Ludum Dare 54 top 30%
-- 🚀 Always shipping — building, iterating, improving every project
+🎮 Indie Game Developer — Unity 2D/3D, gameplay systems, UI/UX
+
+🤖 AI-powered development — clean, optimized, architecture-aware code
+
+🎨 Digital Designer — Visual identities, brand systems, Adobe CC
+
+🏆 Game Jammer — Global Game Jam 2024 · Ludum Dare 54 top 30%
+
+🚀 Always shipping — building, iterating, improving every project
 
 ---
 
@@ -31,7 +35,7 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 
 **Design**
 
-<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop" /><img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" height="48" alt="Illustrator" /><img src="https://img.shields.io/badge/-InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366" height="48" alt="InDesign" /><img src="https://skillicons.dev/icons?i=pr&theme=dark" width="48" height="48" alt="Premiere" /><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" />
+![Design](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,indesign,pr,figma&theme=dark)
 
 **AI Workflow**
 
