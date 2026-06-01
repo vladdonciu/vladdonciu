@@ -24,8 +24,6 @@ using tools like **Claude, GitHub Copilot, and Perplexity** to write cleaner, mo
 
 💻 &nbsp; Working with **C#**, **Unity**, **GML**, **Blender**, and **Inky**
 
-🧩 &nbsp; Game Jammer - Global Game Jam 2024 · Ludum Dare 54 top 30%
-
 🚀 &nbsp; Always improving - building, iterating, and shipping real projects
 
 <br>
