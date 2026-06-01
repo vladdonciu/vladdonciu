@@ -36,8 +36,7 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 **Design**
 
 ![Design](https://skillicons.dev/icons?i=ps,ai,pr,figma&theme=dark)
-
-![InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
+<img src="https://cdn.simpleicons.org/adobeindesign/FF3366" width="48" height="48" alt="Adobe InDesign" />
 
 **AI Workflow**
 
