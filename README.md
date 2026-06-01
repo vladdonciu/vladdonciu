@@ -6,39 +6,34 @@
 
 <br>
 
----
-
 ### 🎮 Game Developer & Digital Designer
 
 I'm passionate about making indie games that reflect my creativity — designing and developing them from concept to playable experience.
 I work at the intersection of Unity development, visual design, and AI-assisted workflows,
 using tools like **Claude, GitHub Copilot, and Perplexity** to write cleaner, more optimized code without losing control over logic and architecture.
 
----
+<br>
 
-## 🧠 About Me
+### 🧠 About Me
 
-🎮 Indie Game Developer — Unity 2D/3D, gameplay systems, UI/UX & level design  
-🤖 Passionate about using AI tools to implement clean, optimized and efficient code  
-🎨 Digital Designer — Visual identities, branding, Adobe Creative Cloud & Figma  
-💻 Working with **C#**, **Unity**, **GML**, **Blender**, and **Inky**  
-🧩 Game Jammer — Global Game Jam 2024 participant, Ludum Dare 54 top 30%  
-🚀 Always improving — building, iterating, and shipping real projects  
+🎮 &nbsp; Indie Game Developer — Unity 2D/3D, gameplay systems, UI/UX & level design
 
----
+🤖 &nbsp; Passionate about using AI to implement clean, optimized and efficient code
 
-## 🔧 What I'm Working On
+🎨 &nbsp; Digital Designer — Visual identities, branding, Adobe CC & Figma
 
-🕹️ **TIKO** — 2.5D narrative Unity game focused on emotion-driven mechanics & storytelling *(In Development)*  
-🏃 **Eternal Mirage** — 3D endless runner with shop, skins & progression systems *(Playable Demo)*  
-🏰 **Gloomy Hood: Tower Defence** — 2D top-down tower defence game in Unity *(Playable Demo)*  
-🤿 **Aqua Nautics** — Mobile & browser game built in 48h at Global Game Jam 2024  
+💻 &nbsp; Working with **C#**, **Unity**, **GML**, **Blender**, and **Inky**
 
----
+🧩 &nbsp; Game Jammer — Global Game Jam 2024 · Ludum Dare 54 top 30%
 
-## 🛠️ Tech & Tools
+🚀 &nbsp; Always improving — building, iterating, and shipping real projects
 
-**Game Development**  
+<br>
+
+### 🛠️ Tech & Tools
+
+**Game Development**
+
 <p>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -47,15 +42,18 @@ using tools like **Claude, GitHub Copilot, and Perplexity** to write cleaner, mo
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-**Design & Branding**  
+**Design & Branding**
+
 <p>
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" alt="Illustrator" />
+  <img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white" alt="Premiere Pro" />
   <img src="https://img.shields.io/badge/Adobe%20InDesign-EE3D8F?style=for-the-badge&logo=adobeindesign&logoColor=white" alt="InDesign" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
 
-**AI & Workflow**  
+**AI & Workflow**
+
 <p>
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
@@ -63,9 +61,9 @@ using tools like **Claude, GitHub Copilot, and Perplexity** to write cleaner, mo
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
----
+<br>
 
-## 🌐 Connect
+### 🌐 Connect
 
 <p>
   <a href="https://www.linkedin.com/in/vladimiro-donciu" target="_blank" rel="noopener noreferrer">
@@ -81,6 +79,6 @@ using tools like **Claude, GitHub Copilot, and Perplexity** to write cleaner, mo
 
 <br>
 
-> *"Every project is a canvas — I build games to express, design to communicate, and code to create."*
+*"Every project is a canvas — I build games to express, design to communicate, and code to create."*
 
 </div>
