@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=6A7B8C&center=true&vCenter=true&width=800&lines=Game+Developer+%26+Digital+Designer;Building+Indie+Games+with+Unity+%26+C%23;AI-Powered+Development+Workflows;Adobe+Creative+Cloud+%7C+Visual+Identity+%26+Branding;Turning+Creative+Ideas+into+Playable+Experiences" alt="Typing SVG" />
 
-<br>
+
 ---
 
 ## `>_ ABOUT ME`
