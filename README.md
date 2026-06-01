@@ -37,11 +37,11 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 
 ![Design](https://skillicons.dev/icons?i=ps,ai,pr,figma&theme=dark)
 
-![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=adobeindesign&logoColor=white)
+![InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)
 
 **AI Workflow**
 
-![Copilot](https://img.shields.io/badge/GitHub%20Copilot-00FF9F?style=for-the-badge&logo=githubcopilot&logoColor=black)
+![Copilot](https://img.shields.io/badge/GitHub%20Copilot-2d333b?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-ffffff?style=for-the-badge&logo=notion&logoColor=black)
 
