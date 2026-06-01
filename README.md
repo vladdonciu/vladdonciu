@@ -12,4 +12,4 @@
 - Practicing clean code and optimization  
 - Experimenting with tools and workflows in game dev
 
-  > *Learning never stops — every project is a new level.*
+  > *Learning never stops - every project is a new level.*
