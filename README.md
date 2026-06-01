@@ -1,12 +1,10 @@
 <div align="center">
 
-# VLADIMIRO DONCIU
-### `Game Developer & Digital Designer`
+# Hi, I'm Vladimiro
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00FF9F&center=true&vCenter=true&width=800&lines=Building+Indie+Games+that+reflect+my+creativity;Unity+%7C+C%23+%7C+AI-Assisted+Development;Adobe+Creative+Cloud+%7C+Visual+Identity+%26+Branding;Game+Jammer+%C2%B7+Global+Game+Jam+2024+%C2%B7+Ludum+Dare+54;Turning+ideas+into+polished+playable+experiences)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=6A7B8C&center=true&vCenter=true&width=800&lines=Game+Developer+%26+Digital+Designer;Building+Indie+Games+with+Unity+%26+C%23;AI-Powered+Development+Workflows;Adobe+Creative+Cloud+%7C+Visual+Identity+%26+Branding;Turning+Creative+Ideas+into+Playable+Experiences" alt="Typing SVG" />
 
-</div>
-
+<br>
 ---
 
 ## `>_ ABOUT ME`
