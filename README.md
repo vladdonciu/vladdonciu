@@ -1,6 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:0f3460,100:00b4d8&height=200&section=header&text=Vladimiro%20Donciu&fontSize=52&fontColor=00ff9f&animation=fadeIn&fontAlignY=38&desc=Game%20Developer%20%26%20Digital%20Designer&descAlignY=58&descSize=20&descColor=a0cfff)
-
 <div align="center">
+
+# VLADIMIRO DONCIU
+### `Game Developer & Digital Designer`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00FF9F&center=true&vCenter=true&width=800&lines=Building+Indie+Games+that+reflect+my+creativity;Unity+%7C+C%23+%7C+AI-Assisted+Development;Adobe+Creative+Cloud+%7C+Visual+Identity+%26+Branding;Game+Jammer+%C2%B7+Global+Game+Jam+2024+%C2%B7+Ludum+Dare+54;Turning+ideas+into+polished+playable+experiences)
 
@@ -69,5 +70,3 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 *"Every project is a canvas — I build games to express, design to communicate, and code to create."*
 
 </div>
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,60:0f3460,100:0d0d0d&height=120&section=footer)
