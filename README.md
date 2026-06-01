@@ -11,19 +11,19 @@
 
 ## `>_ ABOUT ME`
 
-I'm a **Game Developer** and **Digital Designer** passionate about crafting indie games that reflect my creativity — from concept to polished, playable experience.
+I'm a **Game Developer** and **Digital Designer** passionate about crafting indie games that reflect my creativity - from concept to polished, playable experience.
 
 I work at the intersection of **Unity development**, **visual branding**, and **AI-assisted workflows**, using Claude, GitHub Copilot and Perplexity to write cleaner, more optimized code.
 
-🎮 Indie Game Developer — Unity 2D/3D, gameplay systems, UI/UX
+🎮 Indie Game Developer: Unity 2D/3D, gameplay systems, UI/UX
 
-🤖 AI-powered development — clean, optimized, architecture-aware code
+🤖 AI-powered development: clean, optimized, architecture-aware code
 
-🎨 Digital Designer — Visual identities, brand systems, Adobe CC
+🎨 Digital Designer: Visual identities, brand systems, Adobe CC
 
-🏆 Game Jammer — Global Game Jam 2024 · Ludum Dare 54 top 30%
+🏆 Game Jammer: Global Game Jam 2024 · Ludum Dare 54 top 30%
 
-🚀 Always shipping — building, iterating, improving every project
+🚀 Always shipping: building, iterating, improving every project
 
 ---
 
@@ -65,6 +65,6 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 
 <div align="center">
 
-*"Every project is a canvas — I build games to express, design to communicate, and code to create."*
+*"Every project is a canvas - I build games to express, design to communicate, and code to create."*
 
 </div>
