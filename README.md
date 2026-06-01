@@ -21,8 +21,6 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 
 🎨 Digital Designer: Visual identities, brand systems, Adobe CC
 
-🏆 Game Jammer: Global Game Jam 2024 · Ludum Dare 54 top 30%
-
 🚀 Always shipping: building, iterating, improving every project
 
 ---
