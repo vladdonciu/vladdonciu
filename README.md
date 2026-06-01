@@ -28,8 +28,7 @@ I focus on gameplay systems, clean implementation, and steady improvement throug
 - Experimenting with tools and workflows in game development
 
 ---
-<div align="center">
-  
+
 ## Tech Stack
 
 <p align="left">
@@ -40,8 +39,7 @@ I focus on gameplay systems, clean implementation, and steady improvement throug
 </p>
 
 ---
-<div align="center">
-  
+
 ## Connect
 
 <p align="left">
