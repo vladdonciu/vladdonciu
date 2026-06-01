@@ -1,9 +1,11 @@
 <div align="center">
 
-# Hi, I'm Vladimiro
+# VLADIMIRO DONCIU
+### `Game Developer & Digital Designer`
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1400&color=6A7B8C&center=true&vCenter=true&width=800&lines=Game+Developer+%26+Digital+Designer;Building+Indie+Games+with+Unity+%26+C%23;AI-Powered+Development+Workflows;Adobe+Creative+Cloud+%7C+Visual+Identity+%26+Branding;Turning+Creative+Ideas+into+Playable+Experiences" alt="Typing SVG" />
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1400&color=00FF9F&center=true&vCenter=true&width=800&lines=Building+Indie+Games+that+reflect+my+creativity;Unity+%7C+C%23+%7C+AI-Assisted+Development;Adobe+Creative+Cloud+%7C+Visual+Identity+%26+Branding;Game+Jammer+%C2%B7+Global+Game+Jam+2024+%C2%B7+Ludum+Dare+54;Turning+ideas+into+polished+playable+experiences)
 
+</div>
 
 ---
 
@@ -29,9 +31,7 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 
 **Design**
 
-![Design](https://skillicons.dev/icons?i=ps,ai,pr,figma&theme=dark)
-
-![InDesign](https://img.shields.io/badge/InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366&logoSize=20)
+<img src="https://skillicons.dev/icons?i=ps&theme=dark" width="48" height="48" alt="Photoshop" /><img src="https://skillicons.dev/icons?i=ai&theme=dark" width="48" height="48" alt="Illustrator" /><img src="https://img.shields.io/badge/-InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366" height="48" alt="InDesign" /><img src="https://skillicons.dev/icons?i=pr&theme=dark" width="48" height="48" alt="Premiere" /><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" />
 
 **AI Workflow**
 
