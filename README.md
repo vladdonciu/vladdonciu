@@ -11,8 +11,6 @@
 
 ## `>_ ABOUT ME`
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" />
-
 I'm a **Game Developer** and **Digital Designer** passionate about crafting indie games that reflect my creativity — from concept to polished, playable experience.
 
 I work at the intersection of **Unity development**, **visual branding**, and **AI-assisted workflows**, using Claude, GitHub Copilot and Perplexity to write cleaner, more optimized code.
@@ -22,8 +20,6 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 - 🎨 Digital Designer — Visual identities, brand systems, Adobe CC
 - 🏆 Game Jammer — Global Game Jam 2024 · Ludum Dare 54 top 30%
 - 🚀 Always shipping — building, iterating, improving every project
-
-<br clear="right"/>
 
 ---
 
@@ -35,7 +31,7 @@ I work at the intersection of **Unity development**, **visual branding**, and **
 
 **Design**
 
-![Design](https://skillicons.dev/icons?i=ps,ai,pr,figma,xd&theme=dark)
+![Design](https://skillicons.dev/icons?i=ps,ai,pr,figma&theme=dark)
 
 ![InDesign](https://img.shields.io/badge/InDesign-49021F?style=flat-square&logo=adobeindesign&logoColor=FF3366&logoSize=20)
 
